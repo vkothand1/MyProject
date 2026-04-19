@@ -1,0 +1,8 @@
+ipykernel
+langchain
+langchain-core
+langgraph
+pydantic
+python-dotenv
+langchain_openai
+langchain_chroma
