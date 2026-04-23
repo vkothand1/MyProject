@@ -1,0 +1,2 @@
+from shopping_app.agents.assistant import ShoppingAssistant
+from shopping_app.agents.recommender import ShoppingRecommender

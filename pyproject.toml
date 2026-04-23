@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]
-include = ["app*"]
+include = ["app*", "shopping_app*"]
 
 [project]
 name = "MyProject"
@@ -21,6 +21,7 @@ dependencies = [
     "langchain-core>=1.2.22",
     "langchain-openai>=1.1.12",
     "langgraph>=1.1.3",
+    "numpy>=2.2.0",
     "pydantic>=2.12.5",
     "pydantic-settings>=2.9.1",
     "pymupdf>=1.27.2.2",
@@ -30,4 +31,5 @@ dependencies = [
     "sentence-transformers>=4.1.0",
     "ragas>=0.2.15",
     "pytest>=8.0.0",
+    "ddgs>=9.14.0",
 ]
