@@ -1,0 +1,6 @@
+Ingestion run timestamp (UTC): 2026-04-24T02:22:04.106745+00:00
+Input path: /Users/vinothkumarkothandapani/Downloads/AIProject/MyProject/.claude/skills/ingestion-skill/input/your-file.pdf
+Status: FAILED
+Reason: File path is invalid or file does not exist.
+Suggestion: Place a PDF or supported image at the given path and rerun.
+Supported formats: .pdf, .jpg, .jpeg, .png, .gif, .webp, .bmp

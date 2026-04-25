@@ -1,0 +1,34 @@
+# Boarding Pass Transcription
+
+**Left Ticket (0755):**
+- PNR: 0755
+- Booking Reference: C690
+- Economy Class
+- Airline: QATAR
+- Date: 26-JUL
+- Flight: QR29
+- From: Chennai International Airport
+- To: (destination not fully visible)
+- Seat: 37F
+- Gate: 3
+- Time: 20:45-2
+- Boarding Pass Number: 0690
+
+**Right Ticket (0245):**
+- PNR: 0245
+- Booking Reference: (partially visible)
+- Economy Class
+- Airline: (QATAR - visible on left ticket)
+- Flight: 11B
+- From: Chennai International Airport
+- Date: 2 (partial)
+- Gate: 5
+- Boarding Pass Number: (partial)
+
+**Common Elements:**
+- Barcode visible at top of both tickets
+- "Central International Airport" mentioned
+- Economy Class designation
+- QATAR Airways branding visible
+
+*Note: Image quality and angle make some text partially obscured or difficult to read with complete certainty.*

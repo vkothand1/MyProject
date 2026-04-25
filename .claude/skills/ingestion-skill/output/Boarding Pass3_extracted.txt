@@ -1,0 +1,31 @@
+NOTE: This image appears low resolution (960x1280); OCR text may be less accurate.
+
+# Boarding Pass Text Extraction
+
+**Left Boarding Pass:**
+- Booking Reference: 0755
+- Passenger Name: (partially visible)
+- Flight: QR 0755
+- Route: ZIND (ZINOTKHADIA KOTHAIMDPANI) - Appears to be corrupted text
+- Date: 26-FEB
+- Class: ECONOMY CLASS
+- Seat: 37F
+- Gate: 0R 29
+- From: CHENNAI INTERNATIONAL AIRPORT
+- To: (destination unclear)
+- Time: 3-7F DOH DEPI
+- Booking Code: 0755
+- PNR: (barcode at top)
+
+**Right Boarding Pass:**
+- Booking Reference: 0245
+- Passenger Name: (partially visible)
+- Class: ECONOMY CLASS
+- Seat: 11B
+- Gate/Code: 529
+- From: CHENNAI INTERNATIONAL AIRPORT
+- Route: 20ME 2
+- PNR: (barcode at top)
+- Booking reference visible: 0245
+
+*Note: The image quality and angle make some text difficult to read with complete accuracy. The text appears to be from Qatar Airways (QATAR logo visible) boarding passes from Chennai International Airport.*

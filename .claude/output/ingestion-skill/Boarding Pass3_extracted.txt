@@ -1,0 +1,32 @@
+# Boarding Pass Text Extraction
+
+**Left Boarding Pass (0755):**
+- Booking Reference: C690
+- Passenger Name: TIMOTHY KOTHAGADAPANI
+- Economy Class
+- From: Chennai International Airport
+- To: (partially visible)
+- Flight: 0755
+- Date: 26 JUL
+- Boarding Time: DOH DEPI
+- Seat: 37F
+- Gate: OR
+- Time: 0729
+- Airline: QATAR (QATA logo visible)
+- Zone: 2
+- Zone: 2 (repeated)
+
+**Right Boarding Pass (0245):**
+- Economy Class
+- Booking Reference: 0245
+- From: Chennai International Airport
+- To: (partially visible)
+- Flight: 11B
+- Zone: 2
+- Additional reference: 529 (partially visible)
+
+**Additional Details Visible:**
+- Barcode numbers at top of each pass
+- ZONE 2 marked on left pass
+- References to "CHE2F" and flight details
+- Economy Class designation on both passes

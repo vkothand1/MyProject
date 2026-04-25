@@ -1,0 +1,35 @@
+# Boarding Pass Information
+
+**Left Ticket (0755):**
+- Confirmation: 0755
+- QATAR
+- Economy Class
+- Passenger name: (not clearly visible)
+- Route: ZINORKLAIR KODHARAPAI
+- Flight: 0690
+- From: Chennai International Airport
+- To: DOHA
+- Date: 26 JUL
+- Boarding Pass
+- Gate: 37F
+- Seat: OR 29
+- Time: (partially visible)
+- Barcode: (visible at top)
+
+**Right Ticket (0245):**
+- Confirmation: 0245
+- Economy Class
+- Flight: (partially visible)
+- From: DOHA
+- To: (destination not clearly visible)
+- Date: (partially visible)
+- Seat: 11B
+- Gate: (not clearly visible)
+- Barcode: (visible at top)
+- Boarding Pass
+- Seat: 529
+
+**Common Elements:**
+- QATAR Airways
+- Central International Airport
+- Barcode numbers at top of each ticket
