@@ -1,0 +1,109 @@
+note_id,encounter_id,patient_id,note_type,note_text,created_at,author_role
+N_475226e99a,E_56b16cd2d1,P001,visit_note,"Subjective: Follow-up for reflux symptoms. Improved with PPI and diet changes.
+Assessment/Plan: Reviewed lifestyle measures and appropriate use of acid suppression therapy. Discussed alarm symptoms that require prompt evaluation.",2026-01-29T19:42:27Z,physician
+N_f1d1e13873,E_b280a125e8,P001,visit_note,"Subjective: Here to review lipid panel and discuss cardiovascular risk factors. No chest pain on exertion.
+Assessment/Plan: Discussed LDL/HDL/triglycerides and general lifestyle strategies. Reviewed medication adherence if on statin. Ordered repeat lipid panel.",2026-01-29T19:42:27Z,nurse
+N_e2770a905a,E_bda378c238,P001,visit_note,"Subjective: Patient here for BP follow-up. Reports occasional headaches but no chest pain, no shortness of breath. Taking antihypertensive as prescribed.
+Assessment/Plan: Hypertension discussed. Reinforced low-sodium diet, exercise, and medication adherence. Ordered basic metabolic panel to monitor kidney function and electrolytes.
+Return precautions: Go to ER for chest pain, fainting, severe shortness of breath, or neurologic symptoms.",2026-01-29T19:42:27Z,nurse_practitioner
+N_59f2496574,E_5aa2fc568c,P002,visit_note,"Subjective: Patient here for BP follow-up. Reports occasional headaches but no chest pain, no shortness of breath. Taking antihypertensive as prescribed.
+Assessment/Plan: Hypertension discussed. Reinforced low-sodium diet, exercise, and medication adherence. Ordered basic metabolic panel to monitor kidney function and electrolytes.
+Return precautions: Go to ER for chest pain, fainting, severe shortness of breath, or neurologic symptoms.",2026-01-29T19:42:27Z,physician
+N_08ead324c0,E_5aa2fc568c,P002,discharge_summary,"Subjective: Patient here for BP follow-up. Reports occasional headaches but no chest pain, no shortness of breath. Taking antihypertensive as prescribed.
+Assessment/Plan: Hypertension discussed. Reinforced low-sodium diet, exercise, and medication adherence. Ordered basic metabolic panel to monitor kidney function and electrolytes.
+Return precautions: Go to ER for chest pain, fainting, severe shortness of breath, or neurologic symptoms.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse
+N_8cc97ac0b2,E_e2023f0d15,P002,visit_note,"Subjective: Follow-up for type 2 diabetes. No episodes of severe hypoglycemia reported. Discussed diet, activity, and monitoring.
+Assessment/Plan: Reviewed A1c goals and importance of consistency. Ordered A1c and CMP. Provided education on signs of low blood sugar and when to seek care.",2026-01-29T19:42:27Z,nurse
+N_d7b30de35c,E_9bbb18e79c,P002,visit_note,"Subjective: Patient here for BP follow-up. Reports occasional headaches but no chest pain, no shortness of breath. Taking antihypertensive as prescribed.
+Assessment/Plan: Hypertension discussed. Reinforced low-sodium diet, exercise, and medication adherence. Ordered basic metabolic panel to monitor kidney function and electrolytes.
+Return precautions: Go to ER for chest pain, fainting, severe shortness of breath, or neurologic symptoms.",2026-01-29T19:42:27Z,physician
+N_0e2d1182f1,E_903769d23d,P002,visit_note,"Subjective: Here to review lipid panel and discuss cardiovascular risk factors. No chest pain on exertion.
+Assessment/Plan: Discussed LDL/HDL/triglycerides and general lifestyle strategies. Reviewed medication adherence if on statin. Ordered repeat lipid panel.",2026-01-29T19:42:27Z,physician
+N_f5f5b34c84,E_903769d23d,P002,discharge_summary,"Subjective: Here to review lipid panel and discuss cardiovascular risk factors. No chest pain on exertion.
+Assessment/Plan: Discussed LDL/HDL/triglycerides and general lifestyle strategies. Reviewed medication adherence if on statin. Ordered repeat lipid panel.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse
+N_54f2bb7820,E_54bb098594,P003,visit_note,"Subjective: Follow-up for asthma. Uses rescue inhaler a few times per week. No recent hospitalizations.
+Assessment/Plan: Reviewed inhaler technique, trigger avoidance, and action plan. Discussed when to seek urgent evaluation for worsening symptoms.",2026-01-29T19:42:27Z,physician
+N_15c516fd8c,E_b834dfb8a7,P004,visit_note,"Subjective: Follow-up for asthma. Uses rescue inhaler a few times per week. No recent hospitalizations.
+Assessment/Plan: Reviewed inhaler technique, trigger avoidance, and action plan. Discussed when to seek urgent evaluation for worsening symptoms.",2026-01-29T19:42:27Z,nurse
+N_ecef946c8b,E_c531dcb3ad,P004,visit_note,"Subjective: Follow-up for asthma. Uses rescue inhaler a few times per week. No recent hospitalizations.
+Assessment/Plan: Reviewed inhaler technique, trigger avoidance, and action plan. Discussed when to seek urgent evaluation for worsening symptoms.",2026-01-29T19:42:27Z,nurse_practitioner
+N_dfeb559f56,E_59fa99c509,P005,visit_note,"Subjective: Follow-up for asthma. Uses rescue inhaler a few times per week. No recent hospitalizations.
+Assessment/Plan: Reviewed inhaler technique, trigger avoidance, and action plan. Discussed when to seek urgent evaluation for worsening symptoms.",2026-01-29T19:42:27Z,nurse_practitioner
+N_aadf1dd377,E_59fa99c509,P005,discharge_summary,"Subjective: Follow-up for asthma. Uses rescue inhaler a few times per week. No recent hospitalizations.
+Assessment/Plan: Reviewed inhaler technique, trigger avoidance, and action plan. Discussed when to seek urgent evaluation for worsening symptoms.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse_practitioner
+N_3bfc56dca7,E_7ea17354ce,P005,visit_note,"Subjective: Presents with cough, congestion, sore throat x4 days. No shortness of breath at rest.
+Assessment/Plan: Discussed supportive care and warning signs. Considered testing as appropriate. Advised follow-up if symptoms worsen or persist.",2026-01-29T19:42:27Z,nurse
+N_f965cea28f,E_0b735b3d73,P005,visit_note,"Subjective: Patient here for BP follow-up. Reports occasional headaches but no chest pain, no shortness of breath. Taking antihypertensive as prescribed.
+Assessment/Plan: Hypertension discussed. Reinforced low-sodium diet, exercise, and medication adherence. Ordered basic metabolic panel to monitor kidney function and electrolytes.
+Return precautions: Go to ER for chest pain, fainting, severe shortness of breath, or neurologic symptoms.",2026-01-29T19:42:27Z,nurse
+N_eb94db34e5,E_0b735b3d73,P005,discharge_summary,"Subjective: Patient here for BP follow-up. Reports occasional headaches but no chest pain, no shortness of breath. Taking antihypertensive as prescribed.
+Assessment/Plan: Hypertension discussed. Reinforced low-sodium diet, exercise, and medication adherence. Ordered basic metabolic panel to monitor kidney function and electrolytes.
+Return precautions: Go to ER for chest pain, fainting, severe shortness of breath, or neurologic symptoms.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse_practitioner
+N_2b9b113bb9,E_e0b8658ce0,P005,visit_note,"Subjective: Follow-up for reflux symptoms. Improved with PPI and diet changes.
+Assessment/Plan: Reviewed lifestyle measures and appropriate use of acid suppression therapy. Discussed alarm symptoms that require prompt evaluation.",2026-01-29T19:42:27Z,nurse_practitioner
+N_30e28a9a21,E_e0b8658ce0,P005,discharge_summary,"Subjective: Follow-up for reflux symptoms. Improved with PPI and diet changes.
+Assessment/Plan: Reviewed lifestyle measures and appropriate use of acid suppression therapy. Discussed alarm symptoms that require prompt evaluation.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse
+N_db92db5415,E_d3b0b61ecf,P006,visit_note,"Subjective: Follow-up for type 2 diabetes. No episodes of severe hypoglycemia reported. Discussed diet, activity, and monitoring.
+Assessment/Plan: Reviewed A1c goals and importance of consistency. Ordered A1c and CMP. Provided education on signs of low blood sugar and when to seek care.",2026-01-29T19:42:27Z,physician
+N_ec6a18876b,E_d3b0b61ecf,P006,discharge_summary,"Subjective: Follow-up for type 2 diabetes. No episodes of severe hypoglycemia reported. Discussed diet, activity, and monitoring.
+Assessment/Plan: Reviewed A1c goals and importance of consistency. Ordered A1c and CMP. Provided education on signs of low blood sugar and when to seek care.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse_practitioner
+N_b5b446dc33,E_b2ce31819a,P007,visit_note,"Subjective: Presents with cough, congestion, sore throat x4 days. No shortness of breath at rest.
+Assessment/Plan: Discussed supportive care and warning signs. Considered testing as appropriate. Advised follow-up if symptoms worsen or persist.",2026-01-29T19:42:27Z,nurse_practitioner
+N_11bea4bfe0,E_b2ce31819a,P007,discharge_summary,"Subjective: Presents with cough, congestion, sore throat x4 days. No shortness of breath at rest.
+Assessment/Plan: Discussed supportive care and warning signs. Considered testing as appropriate. Advised follow-up if symptoms worsen or persist.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse
+N_44a022ad27,E_23f7fe6b08,P007,visit_note,"Subjective: Follow-up for asthma. Uses rescue inhaler a few times per week. No recent hospitalizations.
+Assessment/Plan: Reviewed inhaler technique, trigger avoidance, and action plan. Discussed when to seek urgent evaluation for worsening symptoms.",2026-01-29T19:42:27Z,nurse
+N_daf3f81e8f,E_23f7fe6b08,P007,discharge_summary,"Subjective: Follow-up for asthma. Uses rescue inhaler a few times per week. No recent hospitalizations.
+Assessment/Plan: Reviewed inhaler technique, trigger avoidance, and action plan. Discussed when to seek urgent evaluation for worsening symptoms.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse_practitioner
+N_ecfd53b71d,E_58267622eb,P007,visit_note,"Subjective: Presents with cough, congestion, sore throat x4 days. No shortness of breath at rest.
+Assessment/Plan: Discussed supportive care and warning signs. Considered testing as appropriate. Advised follow-up if symptoms worsen or persist.",2026-01-29T19:42:27Z,nurse_practitioner
+N_6949e59bdd,E_7993abca2d,P007,visit_note,"Subjective: Follow-up for reflux symptoms. Improved with PPI and diet changes.
+Assessment/Plan: Reviewed lifestyle measures and appropriate use of acid suppression therapy. Discussed alarm symptoms that require prompt evaluation.",2026-01-29T19:42:27Z,physician
+N_f6242218a8,E_aeb2b2529d,P008,visit_note,"Subjective: Here to review lipid panel and discuss cardiovascular risk factors. No chest pain on exertion.
+Assessment/Plan: Discussed LDL/HDL/triglycerides and general lifestyle strategies. Reviewed medication adherence if on statin. Ordered repeat lipid panel.",2026-01-29T19:42:27Z,nurse
+N_49025aa923,E_aeb2b2529d,P008,discharge_summary,"Subjective: Here to review lipid panel and discuss cardiovascular risk factors. No chest pain on exertion.
+Assessment/Plan: Discussed LDL/HDL/triglycerides and general lifestyle strategies. Reviewed medication adherence if on statin. Ordered repeat lipid panel.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse_practitioner
+N_4f1c68f87f,E_e51844a6ee,P008,visit_note,"Subjective: Follow-up for hypothyroidism. Reports fatigue improved. Denies palpitations.
+Assessment/Plan: Reviewed proper timing of levothyroxine and interactions (calcium/iron). Ordered TSH and free T4 for monitoring.",2026-01-29T19:42:27Z,physician
+N_9380347579,E_e51844a6ee,P008,discharge_summary,"Subjective: Follow-up for hypothyroidism. Reports fatigue improved. Denies palpitations.
+Assessment/Plan: Reviewed proper timing of levothyroxine and interactions (calcium/iron). Ordered TSH and free T4 for monitoring.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse
+N_a94d6448d2,E_61eab10dd4,P008,visit_note,"Subjective: Follow-up for hypothyroidism. Reports fatigue improved. Denies palpitations.
+Assessment/Plan: Reviewed proper timing of levothyroxine and interactions (calcium/iron). Ordered TSH and free T4 for monitoring.",2026-01-29T19:42:27Z,physician
+N_635bcb888e,E_8947b1056a,P009,visit_note,"Subjective: Follow-up for hypothyroidism. Reports fatigue improved. Denies palpitations.
+Assessment/Plan: Reviewed proper timing of levothyroxine and interactions (calcium/iron). Ordered TSH and free T4 for monitoring.",2026-01-29T19:42:27Z,nurse_practitioner
+N_1c56e4ecd6,E_8947b1056a,P009,discharge_summary,"Subjective: Follow-up for hypothyroidism. Reports fatigue improved. Denies palpitations.
+Assessment/Plan: Reviewed proper timing of levothyroxine and interactions (calcium/iron). Ordered TSH and free T4 for monitoring.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,physician
+N_54594a6f7f,E_b74cb823bf,P009,visit_note,"Subjective: Follow-up for hypothyroidism. Reports fatigue improved. Denies palpitations.
+Assessment/Plan: Reviewed proper timing of levothyroxine and interactions (calcium/iron). Ordered TSH and free T4 for monitoring.",2026-01-29T19:42:27Z,nurse
+N_040c5544ee,E_b74cb823bf,P009,discharge_summary,"Subjective: Follow-up for hypothyroidism. Reports fatigue improved. Denies palpitations.
+Assessment/Plan: Reviewed proper timing of levothyroxine and interactions (calcium/iron). Ordered TSH and free T4 for monitoring.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse_practitioner
+N_f8a5599bba,E_92f770b8df,P009,visit_note,"Subjective: Presents with cough, congestion, sore throat x4 days. No shortness of breath at rest.
+Assessment/Plan: Discussed supportive care and warning signs. Considered testing as appropriate. Advised follow-up if symptoms worsen or persist.",2026-01-29T19:42:27Z,nurse
+N_589080b43a,E_92f770b8df,P009,discharge_summary,"Subjective: Presents with cough, congestion, sore throat x4 days. No shortness of breath at rest.
+Assessment/Plan: Discussed supportive care and warning signs. Considered testing as appropriate. Advised follow-up if symptoms worsen or persist.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,nurse_practitioner
+N_d19e9fa7c4,E_fb56a0bc95,P010,visit_note,"Subjective: Follow-up for type 2 diabetes. No episodes of severe hypoglycemia reported. Discussed diet, activity, and monitoring.
+Assessment/Plan: Reviewed A1c goals and importance of consistency. Ordered A1c and CMP. Provided education on signs of low blood sugar and when to seek care.",2026-01-29T19:42:27Z,physician
+N_2b90e366b2,E_52ef345d67,P010,visit_note,"Subjective: Follow-up for type 2 diabetes. No episodes of severe hypoglycemia reported. Discussed diet, activity, and monitoring.
+Assessment/Plan: Reviewed A1c goals and importance of consistency. Ordered A1c and CMP. Provided education on signs of low blood sugar and when to seek care.",2026-01-29T19:42:27Z,nurse
+N_3a8974c2b7,E_a2c746f8b1,P010,visit_note,"Subjective: Patient here for BP follow-up. Reports occasional headaches but no chest pain, no shortness of breath. Taking antihypertensive as prescribed.
+Assessment/Plan: Hypertension discussed. Reinforced low-sodium diet, exercise, and medication adherence. Ordered basic metabolic panel to monitor kidney function and electrolytes.
+Return precautions: Go to ER for chest pain, fainting, severe shortness of breath, or neurologic symptoms.",2026-01-29T19:42:27Z,nurse
+N_ecd37bc144,E_a2c746f8b1,P010,discharge_summary,"Subjective: Patient here for BP follow-up. Reports occasional headaches but no chest pain, no shortness of breath. Taking antihypertensive as prescribed.
+Assessment/Plan: Hypertension discussed. Reinforced low-sodium diet, exercise, and medication adherence. Ordered basic metabolic panel to monitor kidney function and electrolytes.
+Return precautions: Go to ER for chest pain, fainting, severe shortness of breath, or neurologic symptoms.
+Discharge: Follow the instructions above. Use patient portal messaging for non-urgent questions.",2026-01-29T19:42:27Z,physician
+N_6afd7d92ec,E_8a3eb4bf3f,P010,visit_note,"Subjective: Here to review lipid panel and discuss cardiovascular risk factors. No chest pain on exertion.
+Assessment/Plan: Discussed LDL/HDL/triglycerides and general lifestyle strategies. Reviewed medication adherence if on statin. Ordered repeat lipid panel.",2026-01-29T19:42:27Z,physician

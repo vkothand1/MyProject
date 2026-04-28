@@ -1,0 +1,16 @@
+allergy_id,patient_id,substance,reaction,severity,recorded_date
+A_572acb8ba7,P001,Shellfish,Hives,moderate,2022-08-17
+A_d9ce5ce7c8,P002,Aspirin,Hives,moderate,2021-11-25
+A_705ea2cea7,P003,"Iodinated contrast",Itching,moderate,2024-07-21
+A_0329bf1aaa,P004,"Sulfonamide antibiotics",Hives,moderate,2023-11-07
+A_d34af23e50,P005,Ibuprofen,Wheezing,severe,2021-07-09
+A_cb0615e5dd,P006,Latex,"Contact dermatitis",mild,2020-10-18
+A_447bbab60b,P007,Ibuprofen,Wheezing,severe,2025-01-30
+A_e3df69b9a1,P008,Ibuprofen,Wheezing,severe,2024-07-19
+A_4616d6f3d8,P008,"Sulfonamide antibiotics",Hives,moderate,2024-01-25
+A_6da965b18c,P009,Shellfish,Hives,moderate,2021-12-03
+A_44f6b99a9c,P009,Milk,"GI upset",mild,2021-04-30
+A_c84d59c2ba,P010,Egg,Rash,mild,2021-07-17
+A_9d5e3a6698,P010,Aspirin,Hives,moderate,2021-09-21
+A_8685d3ad34,P007,Penicillin,Rash,moderate,2021-09-08
+A_d0b3a145d9,P009,Peanuts,Anaphylaxis,severe,2024-01-17

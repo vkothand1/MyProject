@@ -1,0 +1,6 @@
+allergies
+clinical_notes
+encounters
+labs
+medications
+patients

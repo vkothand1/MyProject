@@ -1,0 +1,57 @@
+med_id,patient_id,rxnorm_code,med_name,dose,route,frequency,start_date,end_date,status,indication,prescriber_specialty
+M_3489ef713f,P001,860975,Metformin,"500 mg",oral,"twice daily",2023-10-27,,active,"Type 2 diabetes","Primary Care"
+M_61e0b67cc0,P002,29046,Lisinopril,"10 mg",oral,"once daily",2023-09-30,,active,Hypertension,"Primary Care"
+M_e3633584e4,P003,17767,Amlodipine,"5 mg",oral,"once daily",2025-07-29,,active,Hypertension,"Primary Care"
+M_e02da80abc,P004,83367,Atorvastatin,"20 mg",oral,"once daily",2025-02-03,,active,Hyperlipidemia,"Primary Care"
+M_7d1f440f9e,P005,36567,Simvastatin,"20 mg",oral,"once daily",2024-04-29,,active,Hyperlipidemia,"Primary Care"
+M_792a11d6b0,P006,10582,Levothyroxine,"75 mcg",oral,"once daily",2025-03-15,,active,Hypothyroidism,Endocrinology
+M_822641ba6c,P007,7646,Omeprazole,"20 mg",oral,"once daily",2025-05-11,,active,GERD,"Primary Care"
+M_066f3e64ba,P008,435,"Albuterol inhaler","90 mcg",inhalation,"as needed",2025-05-24,,active,Asthma,Pulmonology
+M_f6cb5a97b6,P009,36437,Sertraline,"50 mg",oral,"once daily",2025-06-26,,active,Depression/anxiety,Psychiatry
+M_41b5fe3048,P010,4493,Fluoxetine,"20 mg",oral,"once daily",2024-04-17,,active,Depression,Psychiatry
+M_76d5138b24,P001,5487,Hydrochlorothiazide,"12.5 mg",oral,"once daily",2025-09-25,,active,Hypertension,"Primary Care"
+M_73079cfffe,P002,52175,Losartan,"50 mg",oral,"once daily",2025-03-24,,active,Hypertension,"Primary Care"
+M_3ca589a09e,P003,25480,Gabapentin,"300 mg",oral,"at bedtime",2025-04-08,,active,"Neuropathic pain",Neurology
+M_024b80f6a8,P004,723,Amoxicillin,"500 mg",oral,"three times daily",2025-08-20,,active,"Acute infection","Urgent Care"
+M_dd3d2acf7b,P005,18631,Azithromycin,"250 mg",oral,"daily (5-day course)",2025-10-24,,active,"Respiratory infection","Urgent Care"
+M_332c1c9db0,P006,161,Acetaminophen,"500 mg",oral,"every 6 hours as needed",2024-08-01,2026-01-05,stopped,Pain/fever,"Primary Care"
+M_df05bde7ff,P007,5640,Ibuprofen,"400 mg",oral,"every 6 hours as needed",2024-08-28,2026-01-17,stopped,Pain/inflammation,"Primary Care"
+M_6970a032c8,P008,11289,Warfarin,"5 mg",oral,"once daily",2025-02-03,,active,Anticoagulation,Cardiology
+M_6576a73165,P009,1364434,Apixaban,"5 mg",oral,"twice daily",2025-10-10,,active,"Atrial fibrillation",Cardiology
+M_d4301b91a5,P010,32968,Clopidogrel,"75 mg",oral,"once daily",2024-04-12,,active,"Antiplatelet therapy",Cardiology
+M_17695f8399,P001,274783,"Insulin glargine","10 units",subcutaneous,nightly,2025-09-15,,active,Diabetes,Endocrinology
+M_936feabba7,P002,20610,Cetirizine,"10 mg",oral,"once daily",2025-06-01,,active,"Allergic rhinitis","Primary Care"
+M_42f927c558,P003,87636,Fexofenadine,"180 mg",oral,"once daily",2025-03-09,,active,"Allergic rhinitis","Primary Care"
+M_ec1a7d174a,P004,8640,Prednisone,"20 mg",oral,"daily (short course)",2024-01-20,2026-01-13,stopped,Inflammation,"Urgent Care"
+M_26dcd9ff15,P005,3640,Doxycycline,"100 mg",oral,"twice daily",2024-02-17,,active,Infection,"Urgent Care"
+M_1abfe2da92,P006,77492,Tamsulosin,"0.4 mg",oral,"once daily",2024-03-06,,active,BPH,Urology
+M_e9f9112de1,P007,866429,"Metoprolol succinate","25 mg",oral,"once daily",2025-10-23,,active,"Hypertension/Rate control",Cardiology
+M_3f487b1be5,P008,4603,Furosemide,"20 mg",oral,"once daily",2025-07-09,,active,"Edema/Heart failure",Cardiology
+M_298bac013b,P009,88249,Montelukast,"10 mg",oral,"once daily",2025-03-14,,active,Asthma/allergies,Pulmonology
+M_aa065e735b,P010,4917,"Nitroglycerin SL","0.4 mg",sublingual,"as needed chest pain",2023-11-12,,active,Angina,Cardiology
+M_7493e22afc,P001,77492,Tamsulosin,"0.4 mg",oral,"once daily",2024-10-19,,active,BPH,Urology
+M_cb6ed87d3d,P002,7646,Omeprazole,"20 mg",oral,"once daily",2024-08-16,,active,GERD,"Primary Care"
+M_69cf09e268,P002,83367,Atorvastatin,"20 mg",oral,"once daily",2025-07-20,,active,Hyperlipidemia,"Primary Care"
+M_fa83d630ab,P002,36437,Sertraline,"50 mg",oral,"once daily",2024-05-15,,active,Depression/anxiety,Psychiatry
+M_b451bbfc45,P003,4493,Fluoxetine,"20 mg",oral,"once daily",2025-09-03,2025-12-11,stopped,Depression,Psychiatry
+M_70c9ba9e6f,P003,18631,Azithromycin,"250 mg",oral,"daily (5-day course)",2023-12-27,,active,"Respiratory infection","Urgent Care"
+M_8116c4dd7e,P003,11289,Warfarin,"5 mg",oral,"once daily",2025-06-19,,active,Anticoagulation,Cardiology
+M_1c394d094b,P004,10582,Levothyroxine,"75 mcg",oral,"once daily",2024-05-16,,active,Hypothyroidism,Endocrinology
+M_c46dc14be9,P005,11289,Warfarin,"5 mg",oral,"once daily",2025-07-22,,active,Anticoagulation,Cardiology
+M_4facf5f49d,P005,17767,Amlodipine,"5 mg",oral,"once daily",2024-11-21,,active,Hypertension,"Primary Care"
+M_afd928e0d4,P006,7646,Omeprazole,"20 mg",oral,"once daily",2025-09-24,,active,GERD,"Primary Care"
+M_258d2729ee,P006,4603,Furosemide,"20 mg",oral,"once daily",2024-03-15,,active,"Edema/Heart failure",Cardiology
+M_d29466d951,P006,5487,Hydrochlorothiazide,"12.5 mg",oral,"once daily",2025-06-21,,active,Hypertension,"Primary Care"
+M_1e87c4542a,P007,32968,Clopidogrel,"75 mg",oral,"once daily",2024-02-18,2025-12-22,stopped,"Antiplatelet therapy",Cardiology
+M_05f45469b2,P007,8640,Prednisone,"20 mg",oral,"daily (short course)",2024-05-11,,active,Inflammation,"Urgent Care"
+M_fa5ba417f5,P007,20610,Cetirizine,"10 mg",oral,"once daily",2023-12-26,2026-01-13,stopped,"Allergic rhinitis","Primary Care"
+M_20a6480f6a,P007,18631,Azithromycin,"250 mg",oral,"daily (5-day course)",2025-03-17,2025-12-10,stopped,"Respiratory infection","Urgent Care"
+M_f1e2b7eb13,P008,29046,Lisinopril,"10 mg",oral,"once daily",2023-10-27,,active,Hypertension,"Primary Care"
+M_7ad2432886,P008,32968,Clopidogrel,"75 mg",oral,"once daily",2025-07-01,,active,"Antiplatelet therapy",Cardiology
+M_0913d902c0,P008,5640,Ibuprofen,"400 mg",oral,"every 6 hours as needed",2024-02-29,,active,Pain/inflammation,"Primary Care"
+M_31d0872c5d,P009,11289,Warfarin,"5 mg",oral,"once daily",2025-06-21,,active,Anticoagulation,Cardiology
+M_24f7d4bdcd,P009,52175,Losartan,"50 mg",oral,"once daily",2023-09-02,,active,Hypertension,"Primary Care"
+M_82a47ce5e8,P009,5487,Hydrochlorothiazide,"12.5 mg",oral,"once daily",2025-07-01,,active,Hypertension,"Primary Care"
+M_6335665483,P009,17767,Amlodipine,"5 mg",oral,"once daily",2025-09-26,,active,Hypertension,"Primary Care"
+M_782f4281c2,P010,36567,Simvastatin,"20 mg",oral,"once daily",2024-03-13,,active,Hyperlipidemia,"Primary Care"
+M_5688d37e0b,P010,18631,Azithromycin,"250 mg",oral,"daily (5-day course)",2025-05-13,,active,"Respiratory infection","Urgent Care"

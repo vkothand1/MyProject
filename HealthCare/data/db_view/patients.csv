@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,birth_year,sex_at_birth,preferred_language,health_literacy_level,timezone,created_at
+P001,Ava,Patel,1989,F,en,intermediate,America/New_York,2026-01-29T19:42:27Z
+P002,Noah,Johnson,1978,M,en,basic,America/Chicago,2026-01-29T19:42:27Z
+P003,Mia,Garcia,1994,F,es,basic,America/Los_Angeles,2026-01-29T19:42:27Z
+P004,Ethan,Kim,1967,M,en,intermediate,America/New_York,2026-01-29T19:42:27Z
+P005,Sophia,Nguyen,1983,F,en,intermediate,America/Denver,2026-01-29T19:42:27Z
+P006,Liam,Brown,1959,M,en,basic,America/Chicago,2026-01-29T19:42:27Z
+P007,Isabella,Martinez,2000,F,es,intermediate,America/Los_Angeles,2026-01-29T19:42:27Z
+P008,Oliver,Davis,1971,M,en,intermediate,America/New_York,2026-01-29T19:42:27Z
+P009,Charlotte,Wilson,1991,F,en,basic,America/Chicago,2026-01-29T19:42:27Z
+P010,James,Anderson,1986,M,en,intermediate,America/Seattle,2026-01-29T19:42:27Z
